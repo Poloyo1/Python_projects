@@ -1,0 +1,5 @@
+Mateus;34
+Lucas;45
+Joana;67
+Maria lui barbora;23
+Lucas suino 4bolas;23
